@@ -38,7 +38,7 @@ This prototype demonstrates:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ravsalt/TessFrozenFood-Inventory-System.git
+   git clone https://github.com/ravvdevv/TessFrozenFood-Inventory-System.git
    cd TessFrozenFood-Inventory-System
    ```
 
@@ -131,7 +131,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ravsalt/TessFrozenFood-Inventory-System.git
+   git clone https://github.com/ravvdevv/TessFrozenFood-Inventory-System.git
    cd TessFrozenFood-Inventory-System
    ```
 
