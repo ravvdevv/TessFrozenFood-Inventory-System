@@ -1,0 +1,44 @@
+2025-10-05T09:00:00|ravvdevv|Initial commit
+2025-10-05T09:10:00|ravvdevv|feat: add authentication context and provider
+2025-10-05T09:20:00|ravvdevv|feat: implement ProtectedRoute component for auth
+2025-10-05T09:30:00|ravvdevv|feat: update routing with protected routes
+2025-10-05T09:40:00|ravvdevv|feat: add logout functionality to AppLayout
+2025-10-05T09:50:00|ravvdevv|feat: add logout button to sidebar
+2025-10-05T10:00:00|ravvdevv|feat: redesign login page with improved UI/UX
+2025-10-05T10:10:00|ravvdevv|feat: enhance dashboard with real-time metrics and pie chart visualization
+2025-10-05T10:20:00|ravvdevv|feat: add data services for inventory and sales management
+2025-10-05T10:30:00|ravvdevv|refactor: update components to integrate with new data services
+2025-10-05T10:40:00|ravvdevv|chore: update dependencies and remove unused data files
+2025-10-05T10:50:00|ravvdevv|refactor: improve inventory and sales pages
+2025-10-05T11:00:00|ravvdevv|feat: enhance dashboard and inventory with price tracking
+2025-10-05T11:10:00|ravvdevv|fix: correct total stock value calculation in dashboard
+2025-10-05T11:20:00|ravvdevv|refactor: simplify EditItemForm and enhance Reports page
+
+2025-10-06T09:00:00|ravvdevv|WIP: Remove Production pages and restructure navigation
+2025-10-06T09:10:00|ravvdevv|feat: implement role-based access control
+2025-10-06T09:20:00|ravvdevv|chore: add Vercel deployment configuration
+
+2025-10-08T09:00:00|ravvdevv|feat: implement ProtectedRoute component for auth
+2025-10-08T09:10:00|ravvdevv|feat: add authentication context and provider
+2025-10-08T09:20:00|ravvdevv|feat: Rework salary generation and refactor navigation
+2025-10-08T09:30:00|ravvdevv|fix: resolve TypeScript errors and improve type safety
+2025-10-08T09:40:00|ravvdevv|feat: enhance sidebar with search and animations
+2025-10-08T09:50:00|ravvdevv|feat: enhance AddItemForm with better status indicators and user feedback
+2025-10-08T10:00:00|ravvdevv|chore: remove react-hot-toast and update toast implementation
+2025-10-08T10:10:00|ravvdevv|fix: update Vercel config and fix manifest
+2025-10-08T10:20:00|ravvdevv|fix: clean up unused imports and fix TypeScript error in vite.config.ts
+2025-10-08T10:30:00|ravvdevv|docs: add comprehensive README with installation and setup instructions
+2025-10-08T10:40:00|ravvdevv|docs: update README and add setup guide for thesis prototype
+2025-10-08T10:50:00|ravvdevv|docs: clean up README by removing code block artifacts
+2025-10-08T11:00:00|ravvdevv|docs: remove contact info from README
+2025-10-08T11:10:00|ravvdevv|docs: fix code block formatting in README
+2025-10-08T11:20:00|ravvdevv|chore: normalize line endings in package.json
+2025-10-08T11:30:00|ravvdevv|feat: add Vercel Analytics to track page views
+2025-10-08T11:40:00|ravvdevv|fix: update Vercel Analytics import to use react package
+
+2025-10-09T09:00:00|ravvdevv|refactor: improve production management and security
+2025-10-09T09:10:00|ravvdevv|refactor: clean up unused code and imports
+2025-10-09T09:20:00|ravvdevv|feat: implement dynamic inventory categories
+2025-10-09T09:30:00|ravvdevv|feat: enhance salary management UI and number formatting
+2025-10-09T09:40:00|ravvdevv|refactor: simplify category input placeholder text
+
