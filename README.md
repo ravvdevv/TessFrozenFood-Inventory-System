@@ -1,6 +1,4 @@
-# TessFrozenFood ERP System (Thesis Prototype) 🔒
-
-> **Private Repository** - This is a private academic thesis project. Access is restricted to authorized evaluators and committee members.
+# TessFrozenFood ERP System (Thesis Prototype)
 
 A comprehensive ERP system prototype for TessFrozenFoods, developed as part of an academic thesis. This system demonstrates modern web technologies in enterprise resource planning, with a focus on inventory management for frozen food products.
 
@@ -125,9 +123,9 @@ src/
 
 ---
 
-## Getting Started for Evaluation
+## Getting Started
 
-### Quick Start (For Thesis Evaluation)
+### Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -161,20 +159,6 @@ src/
 - 4GB RAM (minimum)
 - 1GB free disk space
 
-## Key Features for Thesis Evaluation
-
-### Inventory Management
-- 🏷️ Product catalog with categories
-- 📊 Real-time stock level monitoring
-- 📅 Expiration date tracking
-- 🔄 Low stock alerts
-
-### User Interface
-- 📱 Fully responsive design
-- 🎨 Clean, intuitive dashboard
-- ⚡ Fast and smooth interactions
-- 🔍 Advanced search and filtering
-
 ## Troubleshooting
 
 If you encounter any issues during setup:
@@ -199,12 +183,19 @@ If you encounter any issues during setup:
 3. **Port already in use**
    If port 3000 is in use, you can change it by modifying the `vite.config.ts` file.
 
-## Academic Context
+---
 
-This prototype was developed as part of an academic thesis focusing on:
-- Modern web technologies in ERP systems
-- Real-time inventory management solutions
-- User experience in business applications
+## Contributing
+
+We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they adhere to the project's coding standards.
+4. Submit a pull request with a clear description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
